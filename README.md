@@ -24,7 +24,7 @@ public class Rdm {
 
 **Saída:**<br />
 Nome: Felipe Figueredo Dos Santos Aguiar<br />
-Idade: 18<br />
+Idade: 19<br />
 Cidade: Goiânia<br />
 Linguagens de Aprendizagem e evolução: Python (Básico), Java (Intermediário), C (Básico)<br />
 Contato: felipefigueredo1208@gmail.com<br />
