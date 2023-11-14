@@ -22,7 +22,7 @@ public class Rdm {
 
 }
 
-**Saída:**<br />
+**Output:**<br />
 Nome: Felipe Figueredo Dos Santos Aguiar<br />
 Idade: 19<br />
 Cidade: Goiânia<br />
