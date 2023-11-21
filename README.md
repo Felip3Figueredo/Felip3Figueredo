@@ -1,25 +1,25 @@
-# **Introdução em Java** 
+# **Desenvolvedor .Net** 
 
-public class Rdm {
+using System;
 
-	public static void main(String[] args) {
-		
-		String nome = "Felipe Figueredo Dos Santos Aguiar";
-		int idade = 18;
-		String cidade = "Goiânia";
-		String linguagens = "Python (Básico), Java (Intermediário), C (Básico)";
-		String contato = "felipefigueredo1208@gmail.com";
-		String numero = "62999362906";
-		
-		System.out.println("Nome: " + nome);
-		System.out.println("Idade: " + idade);
-		System.out.println("Cidade: " + cidade);
-		System.out.println("Linguagens de Aprendizagem e evolução: " + linguagens);
-		System.out.println("Contato: " + contato);
-		System.out.println("Número de telefone: " + numero);
+class Program
+{
+    static void Main()
+    {
+        string nome = "Felipe Figueredo Dos Santos Aguiar";
+        int idade = 20;
+        string cidade = "Goiânia";
+        string linguagens = "C#(Trabalho utilizando a linguagem), Python (Intermediário), Java (Intermediário), C (Básico)";
+        string contato = "felipefigueredo1208@gmail.com";
+        string numero = "62999362906";
 
-	}
-
+        Console.WriteLine("Nome: " + nome);
+        Console.WriteLine("Idade: " + idade);
+        Console.WriteLine("Cidade: " + cidade);
+        Console.WriteLine("Linguagens de Aprendizagem e evolução: " + linguagens);
+        Console.WriteLine("Contato: " + contato);
+        Console.WriteLine("Número de telefone: " + numero);
+    }
 }
 
 **Output:**<br />
