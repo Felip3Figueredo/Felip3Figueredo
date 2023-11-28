@@ -13,6 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felip3figueredo&show_icons=true&theme=dracula&locale=en" alt="felip3figueredo" /></p>
 
-<p align="center"><img src="img_git.gif";  /></p>
+<p align="center"><img src="img_git.gif"; width=500px /></p>
 
 
